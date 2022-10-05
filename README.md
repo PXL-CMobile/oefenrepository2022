@@ -34,7 +34,7 @@ Aan je README kan je ook screenshots toevoegen. Bekijk de bron van dit bestand o
 *Hier komt een screenshot*
 
 **Opdracht: Voeg een screenshot toe aan deze repository.**
-![Alt text](/screenshots/obs.png?raw=true "OBS Screenshot")
+![Alt text](/Screenshots/obs.png?raw=true "OBS Screenshot")
 
 ## Optioneel: scrpy
 https://github.com/Genymobile/scrcpy
