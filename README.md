@@ -31,7 +31,7 @@ Aan je README kan je ook screenshots toevoegen. Bekijk de bron van dit bestand o
 
 **Opdracht: Voeg een screenshot naar keuze toe in deze README!**
 
-*Hier komt een screenshot*
+*Hier komt een screenshot* 
 
 **Opdracht: Voeg een screenshot toe aan deze repository.**
 ![Alt text](/Screenshots/obs.png?raw=true "OBS Screenshot")
